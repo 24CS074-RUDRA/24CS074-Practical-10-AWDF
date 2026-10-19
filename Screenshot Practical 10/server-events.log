@@ -1,0 +1,7 @@
+﻿MongoDB connected successfully
+Server running on http://localhost:5001
+GET / - 2026-10-19T07:16:32.000Z
+POST /api/tasks - 2026-10-19T07:16:58.141Z
+[API] Task creation response sent at 2026-10-19T07:16:58.246Z for task "Practical 10 async event demo"
+[Notification] Task "Practical 10 async event demo" created at 2026-10-19T07:17:00.248Z for user 6b0a8c7e1f4d3a2098b76543
+GET /api/tasks/6ad5c3eaacd4dfc6b4e38fb6 - 2026-10-19T07:20:37.196Z
